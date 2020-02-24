@@ -1,2 +1,2 @@
-pyowm
-telegrambota[i
+pyp install pyowm
+pip install pyTelegramBotAPI
